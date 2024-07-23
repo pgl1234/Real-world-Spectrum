@@ -4,7 +4,7 @@ Robust Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning
 
 ## Dataset 
 This paper uses three spectrum datasets collected in the real world, including frequency-modulated (FM) spectrum dataset, long-term evolution (LTE) spectrum dataset, and cross-validation spectrum dataset, to prove the effectiveness of the proposed methods.  
-The datasets are collected at the Jungjun Road Campus of Nanjing University of Aeronautics and Astronautics (NUAA) in Nanjing, China. You can obtain all datasets from Google Drive. Specific details about these three datasets are as follows:
+The datasets are collected at the Jungjun Road Campus of Nanjing University of Aeronautics and Astronautics (NUAA) in Nanjing, China. You can obtain all datasets from [Google Drive](https://drive.google.com/drive/folders/1w2kTaRKVRmsO5jUAovZc78W_eTQ63TDm?usp=sharing). Specific details about these three datasets are as follows:
 
 ### A. FM Spectrum Dataset
 The FM dataset is collected by a spectrum collection node located at [118.7905 (east longitude), 31.9378 (northern latitude), 12.10 (altitude)] on the Jiangjun Road campus of the NUAA in Nanjing, China (see Figure 1 node 1). The data was collected over a bandwidth of 90-110 MHz, with data types being I and Q path signals. The collection time was from 17:20 on Sep. 23rd, 2022, to 20:20 on Sep. 23rd, 2022, with a sampling interval of 1s. 
