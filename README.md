@@ -2,6 +2,11 @@
 ## Title
 Robust Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning
 
+.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png" width="500" height="340" /></div>
+<p align="center">  
+ Figure 1. Real simulation experiment platform.
+</p>
+
 ## Dataset 
 This paper uses three spectrum datasets collected in the real world, including frequency-modulated (FM) spectrum dataset, long-term evolution (LTE) spectrum dataset, and cross-validation spectrum dataset, to prove the effectiveness of the proposed methods.  
 The datasets are collected at the Jungjun Road Campus of Nanjing University of Aeronautics and Astronautics (NUAA) in Nanjing, China. You can obtain all datasets from [Google Drive](https://drive.google.com/drive/folders/1w2kTaRKVRmsO5jUAovZc78W_eTQ63TDm?usp=sharing). Specific details about these three datasets are as follows:
