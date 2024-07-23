@@ -9,7 +9,7 @@ The datasets are collected at the Jungjun Road Campus of Nanjing University of A
 <div align="center">
     <img src="Spectrum-sensor-map/sensor-map.png" width="300" height="360" alt="Image 1" />
     <img src="Spectrum-sensor-map/actual-sensor-image.png" width="300" height="360" alt="Image 2" />
-    <p align="center"> Figure 1. Spectrum sensor map (Left); Actual sensor (Right).</p>
+    <p align="center"> Figure 1. Spectrum sensor map (left) and actual sensor (right).</p>
 </div>
 
 ### A. FM Spectrum Dataset
