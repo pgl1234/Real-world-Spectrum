@@ -34,4 +34,13 @@ This dataset is used to cross-validate the superiority of the proposed methods o
 
 ## Citation
 If you find this repo useful, please cite our paper.
-
+<div>
+@article{pgl2024,
+	title={Robust spectrum prediction with deep {3D} pyramid {Vision Transformer} learning},
+	author={Guangliang Pan and Qihui Wu and Bo Zhou and Jie Li and Wei Wang and Guoru Ding and David K.Y. Yau},
+	journal={IEEE Transactions on Wireless Communications},
+	volume={},
+	pages={1--13 (submitted)},
+	year={2024}
+}
+</div>
