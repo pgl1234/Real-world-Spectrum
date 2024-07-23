@@ -26,3 +26,6 @@ The cross-validation dataset (select FM band) is collected by a spectrum collect
 We convert the FM I/Q data collected every second to a spectrogram via the STFT. The configurations are: the sampling frequency is 125 MHz, the descending sampling coefficient is 4, the STFT number is 32508, the center frequency of the FM is 99 MHz, and the length-window is 256. These spectrograms constitute the LTE dataset. We split the spectrogram series into the training set (7200 samples with 17:20-19:20), validation set (1800 samples with 19:20-19:50), and test set (1800 samples with 19:50-20:20) with a 4:1:1 ratio in chronological order.
 
 This dataset is used to cross-validate the superiority of the proposed methods over the baseline methods.
+
+## Dataset
+If you find this repo useful, please cite our paper.
