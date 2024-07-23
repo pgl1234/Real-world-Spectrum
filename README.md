@@ -16,11 +16,11 @@ The datasets are collected at the Jungjun Road Campus of Nanjing University of A
 </p>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: center; width: 45%;">
+  <div>
     <img src="Spectrum-sensor-map/sensor-map.png" alt="图片1" width="300" height="360" />
-    <p>> Figure 1. Spectrum sensor map.</p>
+    <p>Figure 1. Spectrum sensor map.</p>
   </div>
-  <div style="text-align: center; width: 45%;">
+  <div>
     <img src="Spectrum-sensor-map/actual-sensor-image.png" alt="图片2" width="300" height="360" />
     <p>Figure 2. Actual sensor.</p>
   </div>
