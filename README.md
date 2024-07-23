@@ -2,7 +2,7 @@
 ## Title
 Robust Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning
 
-.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png" width="500" height="340" /></div>
+.<div align=center><img src="Spectrum-sensor-map/sensor-map.png" width="200" height="500" /></div>
 <p align="center">  
  Figure 1. Real simulation experiment platform.
 </p>
