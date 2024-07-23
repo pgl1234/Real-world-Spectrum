@@ -1,5 +1,7 @@
-# Real-world-Spectrum
-Robust Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning
+# Real-world Spectrum Dataset 
+Title: Robust Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning
 
-This work uses three spectrum data sets collected in the real world, including FM spectrum data set, LTE spectrum data set and cross-validation spectrum data set, to prove the effectiveness of the proposed method. These datasets are available for download. 
-The data sets were collected at the Jungjun Road Campus of Nanjing University of Aeronautics and Astronautics in Nanjing, China. Specific details about these three datasets are as follows:
+Dataset: This paper uses three spectrum datasets collected in the real world, including FM spectrum dataset, LTE spectrum dataset, and cross-validation spectrum dataset, to prove the effectiveness of the proposed method.  
+The datasets are collected at the Jungjun Road Campus of Nanjing University of Aeronautics and Astronautics in Nanjing, China. You can obtain all datasets from Google Drive. Specific details about these three datasets are as follows:
+
+## A. FM Spectrum Dataset
