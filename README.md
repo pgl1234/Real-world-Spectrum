@@ -18,8 +18,8 @@ The datasets are collected at the Jungjun Road Campus of Nanjing University of A
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
-    <img src="Spectrum-sensor-map/sensor-map.png" width="48%" alt="Image 1" />
-    <img src="Spectrum-sensor-map/actual-sensor-image.png" width="48%" alt="Image 2" />
+    <img src="Spectrum-sensor-map/sensor-map.png" width="300" height="360" alt="Image 1" />
+    <img src="Spectrum-sensor-map/actual-sensor-image.png" width="300" height="360" alt="Image 2" />
 </div>
 
 ### A. FM Spectrum Dataset
