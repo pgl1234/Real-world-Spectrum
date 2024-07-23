@@ -7,13 +7,14 @@ This paper uses three spectrum datasets collected in the real world, including f
 The datasets are collected at the Jungjun Road Campus of Nanjing University of Aeronautics and Astronautics (NUAA) in Nanjing, China. You can obtain all datasets from [Google Drive](https://drive.google.com/drive/folders/1w2kTaRKVRmsO5jUAovZc78W_eTQ63TDm?usp=sharing). Specific details about these three datasets are as follows:
 
 <div style="display: flex; justify-content: space-between;">
-  
+    <div>
     <img src="Spectrum-sensor-map/sensor-map.png" alt="图片1" width="300" height="360"/>
     <p>Figure 1. Spectrum sensor map.</p>
-
+    </div>
+    <div>
     <img src="Spectrum-sensor-map/actual-sensor-image.png" alt="图片2" width="300" height="360"/>
     <p>Figure 2. Actual sensor.</p>
-
+    </div>
 </div>
 
 ### A. FM Spectrum Dataset
