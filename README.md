@@ -10,6 +10,10 @@ The datasets are collected at the Jungjun Road Campus of Nanjing University of A
 <p align="center">  
  Figure 1. Spectrum sensor map.
 </p>
+.<div align=center><img src="Spectrum-sensor-map/sensor-map.png" width="300" height="360" /></div>
+<p align="center">  
+ Figure 1. Spectrum sensor map.
+</p>
 
 ### A. FM Spectrum Dataset
 The FM dataset is collected by a spectrum collection sensor located at [118.7905 (east longitude), 31.9378 (northern latitude), 12.10 (altitude)] on the Jiangjun Road campus of the NUAA in Nanjing, China (see Figure 1 node 1). The data was collected over a bandwidth of 90-110 MHz, with data types being I and Q path signals. The collection time was from 17:20 on Sep. 23rd, 2022, to 20:20 on Sep. 23rd, 2022, with a sampling interval of 1s. 
