@@ -26,7 +26,7 @@ The STFT is also used to convert LTE I/Q data into spectrogram series. The param
 This dataset is used to demonstrate the transfer learning performance of the proposed methods.
 
 ### C. Cross-Validation Spectrum Dataset
-The cross-validation dataset is collected by a spectrum measurement node located at [118.7907 (east longitude), 31.9386 (northern latitude), 36.80 (altitude)] on the Jiangjun Road campus of the NUAA in Nanjing, China (see Fig. 1 node 2). The bandwidth and data type collected are the same as the FM dataset. The range of collection time is from 17:52 on May 2nd, 2023, to 18:32 on May 2nd, 2023, with a sampling interval of 1 second. The collection time was from 22:14 on Jul. 10, 2024, to 00:04 on Jul. 11, 2024, with a sampling interval of 1s. 
+The cross-validation dataset is collected by a spectrum measurement node located at [118.7907 (east longitude), 31.9386 (northern latitude), 36.80 (altitude)] on the Jiangjun Road campus of the NUAA in Nanjing, China (see Fig. 1 node 2). The bandwidth and data type collected are the same as the FM dataset. The range of collection time is from 17:52 on May 2nd, 2023, to 18:32 on May 2nd, 2023, with a sampling interval of 1 second. The collection time was from 22:14 on Jul. 10, 2024, to 00:04 on Jul. 11, 2024, with a sampling interval of 1 second. 
 
 As with the first two datasets, the STFT is used to convert the I/Q data into spectrogram series. The parameter configuration is the same as that of the FM dataset.
 
