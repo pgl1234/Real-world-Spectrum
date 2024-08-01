@@ -12,14 +12,14 @@ This paper uses three spectrum datasets collected in the real world, including f
 </div>
 
 ### A. FM Spectrum Dataset
-The FM dataset is collected by a spectrum measurement sensor located at [118.7905 (east longitude), 31.9378 (northern latitude), 12.10 (altitude)] on the Jiangjun Road campus of the NUAA in Nanjing, China (see Fig. 1 (left) node 1, and the actual sensor is shown in Fig. 1 (right)). The collected bandwidth is 90-110 MHz. The collected data types are the in-phase (I) and quadrature (Q) signals. The range of collection time is from 17:20 on Sep. 23rd, 2022, to 20:20 on Sep. 23rd, 2022, with a sampling interval of 1 second. 
+The FM dataset is collected by a spectrum measurement sensor located at [118.7905 (east longitude), 31.9378 (northern latitude), 12.10 (altitude)] on the Jiangjun Road campus of the NUAA in Nanjing, China (see Fig. 1 (left) node 1, and the actual sensor is shown in Fig. 1 (right)). The collected bandwidth is 90 MHz-110 MHz. The collected data types are the in-phase (I) and quadrature (Q) signals. The range of collection time is from 17:20 on Sep. 23rd, 2022, to 20:20 on Sep. 23rd, 2022, with a sampling interval of 1 second. 
 
 We convert the FM I/Q data collected every second to a spectrogram via the short-time Fourier transform (STFT). The configurations are: the sampling frequency is 125 MHz, the descending sampling coefficient is 4, the STFT number is 32508, the center frequency of the FM is 99 MHz, and the length-window is 256. These spectrograms constitute the FM dataset. We split the FM dataset into the training set (7200 samples with 17:20-19:20), validation set (1800 samples with 19:20-19:50), and test set (1800 samples with 19:50-20:20) with a 4:1:1 ratio in chronological order.
 
 This dataset is used to demonstrate the superiority of the proposed methods over the baseline methods.
 
 ### B. LTE Spectrum Dataset
-The LTE dataset is collected by a spectrum measurement node located at [118.7905 (east longitude), 31.9378 (northern latitude), 12.10 (altitude)] on the Jiangjun Road campus of the NUAA in Nanjing, China (see Fig. 1 node 1). The collected bandwidth is 690-710 MHz. The data type is the same as the FM spectrum dataset. The range of collection time is from 17:52 on May 2nd, 2023, to 18:32 on May 2nd, 2023, with a sampling interval of 1 second.
+The LTE dataset is collected by a spectrum measurement node located at [118.7905 (east longitude), 31.9378 (northern latitude), 12.10 (altitude)] on the Jiangjun Road campus of the NUAA in Nanjing, China (see Fig. 1 node 1). The collected bandwidth is 690 MHz-710 MHz. The data type is the same as the FM spectrum dataset. The range of collection time is from 17:52 on May 2nd, 2023, to 18:32 on May 2nd, 2023, with a sampling interval of 1 second.
 
 The STFT is also used to convert LTE I/Q data into spectrogram series. The parameters are set the same as for the FM dataset except that the STFT number is 16254 and the center frequency is 700 MHz.
 
@@ -41,6 +41,6 @@ If you find this repository useful, please cite our paper.
 	author={Guangliang Pan and Qihui Wu and Bo Zhou and Jie Li and Wei Wang and Guoru Ding and David K.Y. Yau},
 	journal={IEEE Transactions on Wireless Communications},
 	volume={},
-	pages={1--13 (submitted)},
+	pages={1--16 (submitted)},
 	year={2024}}
  ```
