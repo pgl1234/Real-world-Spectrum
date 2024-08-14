@@ -39,8 +39,8 @@ If you find this repository useful, please cite our paper.
 	@article{pgl2024,
 	title={Spectrum prediction with deep {3D} pyramid {Vision Transformer} learning},
 	author={Guangliang Pan and Qihui Wu and Bo Zhou and Jie Li and Wei Wang and Guoru Ding and David K.Y. Yau},
-	journal={IEEE Transactions on Wireless Communications},
+	journal={arXiv:2408.06870},
 	volume={},
-	pages={1--16 (submitted)},
+	pages={1--16},
 	year={2024}}
  ```
